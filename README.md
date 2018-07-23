@@ -1,0 +1,1 @@
+# test-svg-sprite-generator-webpack-
