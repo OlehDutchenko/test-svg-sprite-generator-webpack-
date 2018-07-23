@@ -1,0 +1,15 @@
+# fs
+.DS_Store
+thumbs.db
+
+# Logs, temp and cache
+.cache/
+*.log*
+.npm
+.eslintcache
+
+# Dependency directories
+node_modules/
+
+## Directory-based project format:
+.idea/
