@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "webpack"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dutchenkoOleg/test-svg-sprite-generator-webpack-#readme",
   "dependencies": {
+    "svg-spritemap-webpack-plugin": "^2.7.0",
     "webpack": "^3.12.0"
   }
 }
