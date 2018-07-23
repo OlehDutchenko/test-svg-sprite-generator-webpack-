@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/dutchenkoOleg/test-svg-sprite-generator-webpack-#readme",
   "dependencies": {
-    "svg-spritemap-webpack-plugin": "^2.7.0",
+    "svg-spritemap-webpack-plugin": "^1.0.0",
     "webpack": "^3.12.0"
   }
 }
